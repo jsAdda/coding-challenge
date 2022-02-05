@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsAdda
 - 👀 I’m interested in web development project.
-- 🌱 I’m currently learning core jvascript.
+- 🌱 I’m currently learning core javascript.
 - 💞️ I’m looking to collaborate on Javascript.
 - 📫 How to reach me - https://twitter.com/js_adda
 
